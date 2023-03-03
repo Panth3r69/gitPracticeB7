@@ -1,2 +1,2 @@
-Hello Kate!
-Bye Kate!
+Hello George!
+Bye George!
